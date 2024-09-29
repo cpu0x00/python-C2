@@ -1,7 +1,7 @@
 # python-C2
 python3 based command and control
 
-*still heavely under development*
+**Discontinued**
 
 - uses Multi-Threaded and Connection pool to handle multiple connections at the same port at the same time
 - Base64 Encoded and AES256-CBC Encrypted payload generation for maximum obfuscation (each Agent is completely unique)
